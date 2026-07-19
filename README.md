@@ -56,7 +56,7 @@ Philosophy:
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisudhan15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,7 +66,7 @@ Philosophy:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jaisudhan15&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -90,7 +90,7 @@ Philosophy:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="jaisudhan.vercel.app">
+<a href="jaisudhan.netlify.app">
 <img src="https://skillicons.dev/icons?i=devto"/>
 </a>
 
