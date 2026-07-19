@@ -71,7 +71,6 @@
   <img src="https://raw.githubusercontent.com/Jaisudhan15/Jaisudhan15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> To activate this, add the `platane/snk` GitHub Action to this repo (`Jaisudhan15/Jaisudhan15`) — it auto-generates the snake SVG from your contribution graph. Ask me for the workflow file and I'll set it up.
 
 ---
 
