@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jai%20Sudhan%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fresher%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Jai%20Sudhan%20K&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Fresher%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Full%20Stack%20Enthusiast&descAlignY=52&descSize=19&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+the+making;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+Pipelines+%26+Infrastructure+Automation;Full+Stack%3A+React.js+%2B+Spring+Boot;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+the+making;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+Pipelines+%26+Infrastructure+Automation;Full+Stack%3A+React.js+%2B+Spring+Boot;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jaisudhan15&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jaisudhan15&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Jaisudhan15?label=Followers&style=for-the-badge&color=00f7ff" />
 <img src="https://img.shields.io/badge/Open%20to-DevOps%20%26%20Cloud%20Roles-00f7ff?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🚀 About Me
 
@@ -36,18 +37,20 @@ certifications:
   - "Java Full Stack Development Nano Degree — ImageconIndia Academy"
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🧰 Tech Arsenal
 
 <div align="center">
 
 **☁️ Cloud & DevOps**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,githubactions,linux,nginx,git&theme=dark&perline=11" />
 
-**💻 Development**
+<br/><br/>
 
+**💻 Development**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,bash,spring,react,nodejs,flask,mysql,mongodb,hibernate&theme=dark&perline=11" />
 
 </div>
@@ -68,7 +71,7 @@ certifications:
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🔥 Featured Projects
 
@@ -121,7 +124,7 @@ certifications:
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -130,23 +133,23 @@ certifications:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisudhan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisudhan15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisudhan15&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisudhan15&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaisudhan15&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaisudhan15&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jaisudhan15&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jaisudhan15/Jaisudhan15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jaisudhan15/Jaisudhan15/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌐 Let's Connect
 
@@ -158,8 +161,8 @@ certifications:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer" width="100%"/>
