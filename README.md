@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Jai%20Sudhan%20K&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Fresher%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Full%20Stack%20Enthusiast&descAlignY=52&descSize=19&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Jai%20Sudhan%20K&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Fresher%20DevOps%20Engineer%20%7C%20Cloud%20and%20Full%20Stack%20Enthusiast&descAlignY=52&descSize=19&descColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+the+making;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+Pipelines+%26+Infrastructure+Automation;Full+Stack%3A+React.js+%2B+Spring+Boot;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
