@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 🚀 About Me
 
@@ -37,7 +37,7 @@ certifications:
   - "Java Full Stack Development Nano Degree — ImageconIndia Academy"
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 🧰 Tech Arsenal
 
@@ -71,7 +71,7 @@ certifications:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 🔥 Featured Projects
 
@@ -124,7 +124,7 @@ certifications:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -133,7 +133,7 @@ certifications:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisudhan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisudhan15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisudhan15&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=Jaisudhan15&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaisudhan15&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
@@ -141,7 +141,7 @@ certifications:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 🐍 Contribution Snake
 
@@ -149,7 +149,7 @@ certifications:
 <img src="https://raw.githubusercontent.com/Jaisudhan15/Jaisudhan15/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
 ## 🌐 Let's Connect
 
@@ -161,7 +161,6 @@ certifications:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
